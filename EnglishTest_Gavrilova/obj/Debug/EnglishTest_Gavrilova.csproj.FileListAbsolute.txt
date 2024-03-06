@@ -1,0 +1,14 @@
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\bin\Debug\EnglishTest_Gavrilova.exe.config
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\bin\Debug\EnglishTest_Gavrilova.exe
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\bin\Debug\EnglishTest_Gavrilova.pdb
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\obj\Debug\EnglishTest_Gavrilova.csproj.AssemblyReference.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\obj\Debug\EnglishTest_Gavrilova.csproj.SuggestedBindingRedirects.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\obj\Debug\EnglishTest_Gavrilova.Form1.resources
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\obj\Debug\EnglishTest_Gavrilova.Properties.Resources.resources
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\obj\Debug\EnglishTest_Gavrilova.csproj.GenerateResource.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\obj\Debug\EnglishTest_Gavrilova.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\obj\Debug\EnglishTest_Gavrilova.exe
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\obj\Debug\EnglishTest_Gavrilova.pdb
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\obj\Debug\EnglishTest_Gavrilova.Klass2.resources
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\obj\Debug\EnglishTest_Gavrilova.Klass3.resources
+C:\Users\gavri\Documents\3 курс\учебная практика\EnglishTest_Gavrilova\EnglishTest_Gavrilova\obj\Debug\EnglishTest_Gavrilova.Klass4.resources
